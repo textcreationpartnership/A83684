@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Commons assembled in Parliament, upon two letters sent by Sir John Brooks, (sometimes a Member of the Commons House this parliament, ... being a projector, a monopolist, and a fomentor of the present bloudy and unnaturall war; for bearing of arms actually against the Parliament) to William Killegrew at Oxford (intercepted neer Coventrey) giving his advice how the King should proceed in the Treaty upon the propositions for peace, presented unto him by the Parliament. With the names of the lords, baronets, knights, esquires, gentlemen, ministers and freeholders, indicted the last sessions at Grantham, of high-treason, by Sir Peregrine Bartue and the said Sir John Brooks, before themselves, and other their fellow-cavaliers, rebels and traitors, commissioners, appointed, (as they say), for that purpose. ... Also, the ordinance of both Houses, made the 17 of Decemb. 1642. that the pretended commissioners, and all others, sheriffs, officers, jurors, and any whom it may concern, may know what to expect, that shall presume to molest the persons or estates of any for their service to the Parliament and Kingdom. With some abstracts of credible letters from Exceter, ... Ordered by the Commons in Parl. that this declaration and letters be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83684</idno>
+            <idno type="STC">Wing E2564</idno>
+            <idno type="STC">Thomason E101_13</idno>
+            <idno type="STC">ESTC R17040</idno>
+            <idno type="EEBO-CITATION">99860137</idno>
+            <idno type="PROQUEST">99860137</idno>
+            <idno type="VID">112246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112246)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E101[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Commons assembled in Parliament, upon two letters sent by Sir John Brooks, (sometimes a Member of the Commons House this parliament, ... being a projector, a monopolist, and a fomentor of the present bloudy and unnaturall war; for bearing of arms actually against the Parliament) to William Killegrew at Oxford (intercepted neer Coventrey) giving his advice how the King should proceed in the Treaty upon the propositions for peace, presented unto him by the Parliament. With the names of the lords, baronets, knights, esquires, gentlemen, ministers and freeholders, indicted the last sessions at Grantham, of high-treason, by Sir Peregrine Bartue and the said Sir John Brooks, before themselves, and other their fellow-cavaliers, rebels and traitors, commissioners, appointed, (as they say), for that purpose. ... Also, the ordinance of both Houses, made the 17 of Decemb. 1642. that the pretended commissioners, and all others, sheriffs, officers, jurors, and any whom it may concern, may know what to expect, that shall presume to molest the persons or estates of any for their service to the Parliament and Kingdom. With some abstracts of credible letters from Exceter, ... Ordered by the Commons in Parl. that this declaration and letters be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>14 [i.e. 16] p.   </extent>
+               <publicationStmt>
+                  <publisher>May 10. London, Printed for Edw. Husbands in the Middle-Temple,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Numerous internal mispaginations. Text is continuous despite pagination.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bertie, Peregrine, --  Sir --  Early works to 1800.</term>
+               <term>Brooke, John, --  Sir, 17th cent --  Early works to 1800.</term>
+               <term>Chudleigh, James, d. 1643 --  Early works to 1800.</term>
+               <term>Killegrew, William, --  Sir, 1606-1695 --  Early works to 1800.</term>
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112246:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the Commons aſſembled in Parliament, UPON Two Letters ſent by Sir <hi>John Brooks,</hi> (ſometimes a Member of the Commons Houſe this Par<g ref="char:EOLhyphen"/>liament, till he was diſabled, being a Projector, Monopoliſt, and Fomentor of the preſent bloudy and unnaturall War; for bearing of Arms actually againſt the Parliament) to Sir <hi>William Killegrew</hi> at Oxford (intercepted neer Coventrey) giving his advice how the King ſhould proceed in the Treaty upon the Propoſitions for Peace, pre<g ref="char:EOLhyphen"/>ſented unto Him by the <hi>PARLIAMENT.</hi>
+            </p>
+            <p>With the NAMES of the Lords, Baronets, Knights, Eſquires, Gentlemen, Miniſters and Freeholders, indicted the laſt Seſſions at <hi>Grantham,</hi> of high-Treaſon, by Sir <hi>Pere<g ref="char:EOLhyphen"/>grine Bartue</hi> and the ſaid Sir <hi>John Brooks,</hi> before themſelves, and other their fellow-Cavaliers, Rebels and Traitors, Commiſſioners, appointed (as they ſay) for that purpoſe.</p>
+            <p>Who, contrary to the known Laws of this Kingdom, ſeize all the Eſtates of the perſons indicted, require their Tenants to pay in all their Rents of the ſaid Lords and others, unto themſelves, being Commiſſioners and ſharers therein.</p>
+            <p>Alſo, the Ordinance of both Houſes, made the 17 of <hi>Decemb.</hi> 1642. that the pretended Commiſſioners, and all others, Sheriffs, Officers, Iurors, and any whom it may concern, may know what to expect, that ſhall preſume to moleſt the Perſons or Eſtates of any for their ſervice to the Parliament and Kingdom.</p>
+            <p>With ſome Abſtracts of credible Letters from <hi>Exceter,</hi> who give a further Relation concerning the late Expedition under the command of Sergeant Major <hi>James Chudleigh</hi> againſt the Corniſh.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <p>Ordred by the Commons in Parl. That this Declaration and Letters be forthwith Printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: ELSYNGE, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>May 10. <hi>London,</hi> Printed for <hi>Edw. Husbands</hi> in the Middle-Temple. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:112246:2"/>
+            <pb n="3" facs="tcp:112246:2"/>
+            <head>A DECLARATION OF THE COMMONS Aſſembled in Parliament, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Commons in Parliament having recei<g ref="char:EOLhyphen"/>ved two ſeverall Letters (which were inter<g ref="char:EOLhyphen"/>cepted) written and ſent by Sir <hi>John Brooks</hi> (ſometimes a Member of that Houſe this Parliament, till he was diſabled, being a great Projector and Monopoliſt, and not onely a deſerter of the ſervice, wherewith he was intruſt<g ref="char:EOLhyphen"/>ed for the publique, but alſo a Fomentor of the preſent, bloudy and unnaturall War, and actually bearing of arms againſt the Parliament) unto Sir <hi>William Killegrew</hi> knight, a great and principall Factor for the Cavaliers in this Re<g ref="char:EOLhyphen"/>bellion and Deſigne, reſiding at <hi>Oxford,</hi> during the late Treaty upon the Propoſitions for an Accommodation preſented unto His Majeſtie by both Houſes; whereby, as a further concurrent Teſtimony, the good people of this Kingdom, and all others that willfully have not blinded themſelves, (holding the Truth in unrighteouſ<g ref="char:EOLhyphen"/>neſſe, not ſuffering that to appear; which in their judge<g ref="char:EOLhyphen"/>ments
+<pb n="4" facs="tcp:112246:3"/>
+they cannot gainſay) may cleerly diſcern by whoſe and what Counſells His Majeſty is ſwayed, and is and hath of late bin ſeduced; that the meaneſt of thoſe that have ingaged themſelves in this helliſh and Tyrannicall Rebel<g ref="char:EOLhyphen"/>lion, do adventure to caſt in their Mites, their Counſells being as various as their Deſignes; ſome endeavouring the promoting of the Popiſh Religion; others, their own lu<g ref="char:EOLhyphen"/>cre and advancement, to make up again their deſperate and broken Fortunes, by the ruine and deſtruction of the faithfull of the Land; ſome, ambitiouſly ſeeking Honor, that they may inſult over the Lords heritage; ſome, to protect themſelves from the hand of publique Juſtice, to which they are obnoxious; and others, hunting for re<g ref="char:EOLhyphen"/>venge; Each of them ſtriving to be the moſt lying ſpirit in the mouths of all them that encompaſſe the Royall Throne, who have not onely perſwaded, but have pre<g ref="char:EOLhyphen"/>vailed alſo; and have made the Nobles and great Men of <hi>England,</hi> for the moſt part, of thoſe that have withdrawn themſelves, as the Nobles of Iſrael, Deſtroyers of the work, and hinderers of a Reformation; the Evidences of which Truths are daily ſo cleerly diſcovered, by extraor<g ref="char:EOLhyphen"/>dinary and ſpeciall Acts of divine Providence, ſo viſible, as he that runs may read.</p>
+            <p>By theſe Letters it appears, That the Lords and Com<g ref="char:EOLhyphen"/>mons of both Houſes, who have not loſt their firſt love, nor deſerted their Truſt, but have appropriated them<g ref="char:EOLhyphen"/>ſelves to the Lords work; that have given ſufficient Te<g ref="char:EOLhyphen"/>ſtimony of their Affections to the ſervice and ſafety of the King and Kingdom, are vilified and traduced, and that in the higheſt places, by theſe wicked and ſeducing Coun<g ref="char:EOLhyphen"/>ſellors, who not onely work them out of the good opi<g ref="char:EOLhyphen"/>nion of His Majeſtie, but by their wiles are encompaſſing their Ruine and Deſtruction; have adviſed, that no pardon
+<pb n="5" facs="tcp:112246:3"/>
+may be given to the Lords and others, that have taken up Arms, though in their own defence, againſt them that are declared by the greateſt Counſell of the Land, to be publique Enemies to the State; and that <hi>in every County inquiſition may be made by ſuch Inſtruments as the King may beſt truſt;</hi> and a ſpeciall care taken, <hi>that none of them may eſcape that are rich, and have good Eſtates;</hi> whoſe Names muſt be certified ſpeedily to His Majeſtie, that they may be exempted out of the generall Pardon.</p>
+            <p>And whereas, according to the known Laws of the Land, as both the Houſes of Parliament by their Decla<g ref="char:EOLhyphen"/>rations of the Seventeenth of January, and Second of Fe<g ref="char:EOLhyphen"/>bruary, 1641. have declared, That where there is no Charge againſt any Member of either Houſe, made known to that Houſe of which he is a Member; and he is Arreſted, Attached, Indicted or Accuſed; or where their Eſtates are ſeized or ſequeſtred, which is not made known to ſuch Houſe whereof he is a Member, That it is againſt the Fundamentall Liberties of the Subject, the Rights of Parliament; and that thoſe that did or ſhould offend there<g ref="char:EOLhyphen"/>in, were guilty of the breach of the Priviledges of the Par<g ref="char:EOLhyphen"/>liament, of the Liberties of the Subjects, and publique Enemies to the Common-wealth; and thereupon the King himſelf, as appears by His Meſſage of the Twelfth of January following, waved His proceedings againſt the Lord <hi>Kimbolton</hi> and the Five Members of the Houſe of Commons accuſed of high-Treaſon; And in his Meſſage of the Twenty fourth of the ſame Moneth, ſent to both Houſes, confeſſeth His miſtake in the way: And whereas afterward both the Houſes of Parliament declaring in their Petition to His Majeſtie, That it is the undoubted Right and Priviledge of Parliament, that no Member of either Houſe of Parliament can be proceeded againſt
+<pb n="6" facs="tcp:112246:4"/>
+without conſent of Parliament; His Majeſtie returned in anſwer the Second of February, 1641. That he did find good cauſe wholly to deſert His proſecution againſt the Lord <hi>Kimbolton</hi> and five Members.</p>
+            <p>Yet the ſayd Sir <hi>John Brookes,</hi> as it appeareth by his let<g ref="char:EOLhyphen"/>ters hereafter mentioned, and as it is moſt evident, the reſt of his fellow Traytors and Rebels that are the pre<g ref="char:EOLhyphen"/>tenders of peace, and of governing the Subject according to the known Laws, have not only broken through and violated theſe known Laws ſo lately declared in Parlia<g ref="char:EOLhyphen"/>ment, and confeſſed and conſented unto on all hands, but contrary to all Law and juſtice, by colour of a Regall power and the Kings Prerogative, above the Law, pre<g ref="char:EOLhyphen"/>ſumptuouſly againſt all the Rules and Preſidents of Law, under pretence of a Commiſſion of their own procuring to them directed, have cauſed divers members of both Houſes, and divers Gentlemen of <hi>Lincolnſhire</hi> (whoſe names are hereafter recited) to be Indicted of High-trea<g ref="char:EOLhyphen"/>ſon before themſelves, and <hi>have cauſed their eſtates to bee ſeiſed as forfeited,</hi> requiring the Tenants of all and every the ſayd perſons ſo Indicted, forthwith, and from time to time as they ſhall grow due, <hi>to pay in all the Rents of the ſayd Lords and others, unto themſelves being Commiſsioners</hi> and ſharers, which is according to the advice given by the ſaid Sir <hi>John Brookes</hi> in his Letter againſt the Pardon, whoſe words are, <hi>How elſe ſhall the King pay His debts now made for this Warre, and recompence thoſe that have adven<g ref="char:EOLhyphen"/>tured their lives, and ſpent their fortunes, and have been un<g ref="char:EOLhyphen"/>done? and if the King will not puniſh the one, and reward his faithfull ſervants, He will be in a worſe eſtate by ſuch a peace, than He was at the beginning of this Warre.</hi> Theſe preten<g ref="char:EOLhyphen"/>ded Commiſſioners make it criminall to ſuch Tenants as ſhall refuſe to pay in the Rents unto them, threatning
+<pb n="7" facs="tcp:112246:4"/>
+them with ſevere puniſhments for their neglect and con<g ref="char:EOLhyphen"/>tempt.</p>
+            <p>Theſe Letters further informe us, what adviſe the Au<g ref="char:EOLhyphen"/>thour hath commended to His Majeſtie concerning the Members of both Houſes, That He ſhould not allow of a Treaty with His Parliament, before they were all reſto<g ref="char:EOLhyphen"/>red; <hi>That the two Houſes may be full of the ſame Members, as at the firſt;</hi> inſinuating, <hi>That if the two Houſes were ſo filled, the King need not doubt but all things would proceed from them to His Honour and Greatneſſe,</hi> and <hi>that the King cannot receive Honor nor Right from the reſt that have Trai<g ref="char:EOLhyphen"/>terouſly plotted His ruine and overthrow, and our Religion, Laws, and Liberties;</hi> As he is the firſt that ſo bold-fac'dly chargeth the whole Parliament with Treaſon in the high<g ref="char:EOLhyphen"/>eſt degree, ſo it were to be wiſht he were the only man that hath put conditions upon the King, threatning Him with a new Warre againſt the King, Kingdom, and Par<g ref="char:EOLhyphen"/>liament, if His Majeſty ſhould conclude a Peace contrary to their adviſe, and would not gratifie them with the e<g ref="char:EOLhyphen"/>ſtates of ſuch as had borne Arms againſt them; and if <hi>the King would permit all thoſe that were for Him to be thruſt out, He will finde hereafter none to ſtand for Him.</hi> The Author of theſe Letters, boaſts and glories in that his adviſe is followed, which appears to be moſt true in this particu<g ref="char:EOLhyphen"/>lar; for by His Majeſties Meſſage to both Houſes of the 12 of <hi>Aprill,</hi> 1643. the King Declares, That before He would disbandon the Armies (which was to precede the Treaty upon the other Propoſitions) <hi>He would have all the Members of both Houſes to be reſtored, who have been Vo<g ref="char:EOLhyphen"/>ted from them</hi> (as the Meſſage ſayes) <hi>for adhering to His Majeſtie in theſe diſtractions.</hi> Let the world judge what theſe men merit, inſtead of a reſtitution to their places in Parliament, who have not only withdrawne themſelves
+<pb n="8" facs="tcp:112246:5"/>
+from the ſervice, but Traiterouſly have endeavoured to ſubvert the ſame, our Religion, and Liberties, and by force to deſtroy the good people of the Kingdom: what a wonderment would it be to reſtore againe a power to them over the lives, eſtates, and liberties of thoſe who firſt ſent them to ſerve in Parliament, that already threa<g ref="char:EOLhyphen"/>ten to turn their power againſt them to their ruine and de<g ref="char:EOLhyphen"/>ſtruction, being confident they ſhall carry things as they liſt, if the Houſes were filled as at firſt.</p>
+            <p>The Author in his laſt letter tels us, That <hi>His Majeſties laſt Meſſage to the Houſes of Parliament was according to his heart, and for the moſt part the ſame which he formerly ſent to Sir</hi> Will. Killegrew, <hi>which was read unto the King.</hi> Theſe evill Counſellors have diſcovered themſelves, Let the whole Kingdom judge how pleaſing it is, and what peace was to be expected.</p>
+            <p>The Author concludes with a lamentable ſtory from his wife, every man can quickly tell what he deſerves; 'tis true, his houſe was ſearched, there being good cauſe; but 'tis as true, That although his Lady diſcovered her ſelfe an enemy to the Parliament, there was not, nor yet is there any thing carried away, to the bigneſſe of a Nutt, but all left where it was then found.</p>
+            <div type="order">
+               <p>ORdered by the Commons in Parliament, That this Declara<g ref="char:EOLhyphen"/>tion, the Letters, the Liſt of the names, and the Ordinance of the <hi>17</hi> of <hi>December, 1642.</hi> be Printed and publiſhed.</p>
+               <closer>
+                  <signed>Hen. Elſynge Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:112246:5"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Should be very glad to heare the King ſhould have his Navy, Revenue, his Forts and Magazins reſto<g ref="char:EOLhyphen"/>red, but I hope the King will not finiſh the Treaty, but with his two Houſes of Parliament, being full with the ſame Members as at the firſt; for if the King permit all thoſe that were for him to be thruſt out, then I believe hee will find hereafter none to ſtand for him. But it is againſt the Law and right of the Subject, that any being legally elected, ſhould be put out of the houſe, but for ſome offences againſt the known Laws of the Kingdom. And the two Houſes being ſo filled as at the firſt the King need not doubt, but all things will proceed from them to his Honour and greatneſſe. And other ways from the ſixth or ſeventh part of the Houſe, who as all the World knows, have traiterouſly plotted his ruine, and our overthrow, our Religion, Laws &amp; Liberties. Can it be thought poſſible, that from that faction; the King can ever re<g ref="char:EOLhyphen"/>ceive honour and right? And I pray let me ſay ſome thing to you concerning a generall pardon, the which I know they will in the end much preſſe for: Firſt, all thoſe that have ſer<g ref="char:EOLhyphen"/>ved the King, will deſire none, nor need any: And if the King ſhould grant to all the Lords and others that have taken up and born arms, and made war againſt his owne perſon and his Forces, I verily believe you will quickly ſee another war again: and beſides, how will the King pay his debts now made for this war, and recompence thoſe that have adventu<g ref="char:EOLhyphen"/>red their lives, and have ſpent their fortunes, and have bin un<g ref="char:EOLhyphen"/>done by their plundrings? And if the King will not puniſh the one, and reward his faithfull Servants, I doe believe the King
+<pb n="2" facs="tcp:112246:6"/>
+will be in worſe eſtate by ſuch a Peace, then hee was at the beginning of this war. I am far from diſſwading a pardon to be given to the poore common people, that have bin ſeduced, and ſome for feare, and by force have been conſtrained to this unnaturall and unlawfull war. But all thoſe in every County that have good eſtates, that have contributed, and have in perſon taken arms againſt the King to be excepted, in which inquiry, there muſt be great care taken, other ways many rich notorious Traitors may eſcape. And therefore the King, as I conceive, muſt ſend to thoſe he moſt truſts in every Shire, to certifie the names of thoſe that ought to be exempted out of the generall pardon, as wee have now done by Sir <hi>Peregrine Bartue,</hi> for our County of <hi>Lincolne:</hi> I will ſay nothing to you of the taking of <hi>Grantham,</hi> for the news is by this ſtale, but he can declare all the buſineſſe: only your brother <hi>Fines</hi> got away, on whom they lay all the fault of the loſſe of the Town. But I hope you ſhall heare better news ere long from us, then that my Lord of <hi>Newcaſtle</hi> hath muſtered 18000 horſe and foot, and hath taken an entire Troop of Drago<g ref="char:EOLhyphen"/>neers from <hi>Hotham,</hi> ſince Sir <hi>Hugh Cholmley's</hi> comming in: I pray God ſend the King an honourable an happy peace:</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant,</hi> John Brooks.</signed> 
+               <dateline>
+                  <hi>Newark</hi>
+                  <date>27, of <hi>March,</hi> 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>MY Lord of <hi>Newcaſtle</hi> hath promiſed to let us have 500 Muskets for our money, the which if we can get, we will loſe all our lives, but we will reduce <hi>Lincoln</hi>-ſhire to the Kings obedience, and be able to ſerve him with 5000 horſe and foot, and to ſecure the County beſides, with<g ref="char:EOLhyphen"/>out any charge to the King. And if the King would ſend us a draught of an aſſociation to be made between us and <hi>Notting<g ref="char:EOLhyphen"/>ham</hi>-ſhire,
+<pb n="3" facs="tcp:112246:6"/>
+               <hi>Rutland</hi>-ſhire, and <hi>Leiceſter</hi>-ſhire, if hee thinke ſuch a courſe would be for his ſervice, I believe it would utter<g ref="char:EOLhyphen"/>ly overthrow all the Parliaments hopes and ſupplyes from theſe four Counties, and make them all for him. And I doubt not but <hi>Darby</hi>-ſhire will come in, and many more will fol<g ref="char:EOLhyphen"/>low the example. All men now being cleere-ſighted and wea<g ref="char:EOLhyphen"/>ry of theſe oppreſſions, as hatefull to God and man.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ACcording to my promiſe in my laſt Letter, I doe ſend you here incloſed the names of thoſe that were indicted of high Treaſon at our laſt Seſſions at <hi>Grantham,</hi> I can add no more news but that this day I received from my wife the Copy of the Kings laſt Meſſage to the Houſes of Parlia<g ref="char:EOLhyphen"/>ment, which was according to my heart, and the moſt part of it the ſame I formerly writ to you, which you were pleaſed to read to the King. My wife writes that the Commons in Par<g ref="char:EOLhyphen"/>liament will not ſuffer it to be printed, but I have ſent it to my Lord of <hi>Newcastle,</hi> to be printed at <hi>York,</hi> if he think fit. By my wifes Letter, you may perceive, that my houſe in <hi>London</hi> is plundred from the Garrets to the Celler, and all taken away to the bigneſſe of a Nut: And I am ſure you know, how it was furniſhed. And this act done by a particular Warrant from the Committee: I will die but I will revenge it, and that ere long: God in Heaven deliver the King, and all that love him, from theſe baſe traiterous Devils.</p>
+            <closer>
+               <signed>
+                  <hi>Your faithfull Servant,</hi> Iohn Brooke.</signed> 
+               <dateline>
+                  <hi>Newark</hi>
+                  <date>21 <hi>of Aprill,</hi> 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="announcement">
+            <pb n="10" facs="tcp:112246:7"/>
+            <head>All the Tenants and Farmers of any Lands, Tithes, or other Hereditaments, are to take notice that the Perſons here-under-written by due courſe of Law, ſtand indicted of high Treaſon, for which offence all their eſtates ought to be forfeited unto, and ſeized by the King. His Majeſties Commiſſioners, therefore require all ſuch Tenants and Farmers to pay their Rents laſt due, and to be due unto the Kings Commiſſioners for the Countie of <hi>Lincolne</hi> for his Majeſties uſe. In default whereof the Tenants them<g ref="char:EOLhyphen"/>ſelves to be charged therewith, and receive due puniſhment for their neglect and contempt. The Rents already due to be paid within five dayes after the date hereof, and the Rents to grow due within five dayes after the ſame ſhall be due.</head>
+            <list>
+               <head>Members of the Lords Houſe this preſent Parlia.</head>
+               <item>
+                  <hi>THeophilus</hi> Earle of Lincoln,</item>
+               <item>
+                  <hi>Francis</hi> Lord Willoughby of Parham,</item>
+            </list>
+            <list>
+               <head>Members of the Houſe of Commons this Parliament.</head>
+               <item>
+                  <hi>John Hotham</hi> of Beverley, Eſquire.</item>
+               <item>Sir <hi>Chriſtopher Wray</hi> of Barkings, Knight.</item>
+               <item>Sir <hi>Anthony Irby</hi> of Boston, Knight.</item>
+               <item>
+                  <hi>William Ellis</hi> of Grantham Eſquire.</item>
+               <item>Sir <hi>Edward Ayſcough</hi> of South Kelſey, Knight</item>
+               <item>
+                  <hi>Thomas Hatcher</hi> of Careby, Eſquire.</item>
+            </list>
+            <p>John Wray <hi>of Glentworth, Eſquire. Sir</hi> Thomas Trollop of Caſwick Baronet. Sir <hi>John Brownloe</hi> of Belton, Baronet. <hi>William Browne</hi> of Sleeford, Gentleman. <hi>Thomas Savill</hi> of Neiwton, Eſquire. <hi>Henry Maſſingberd</hi> of Bratoft, Gentleman. <hi>Drayner Maſſinberg,</hi> of the ſame, Gentleman. <hi>John Archer</hi> of Panton, Eſquire. <hi>Thomas Liſter</hi> of Colby, Eſquire. <hi>Thomas Grantham</hi> of Goltho, Eſquire. <hi>Edward King</hi> of Martin, Eſquire. <hi>Edward Roſſeter</hi> of Somerole, Eſquire. <hi>Thomas Welby</hi> of Boſton, Gentleman, <hi>Francis Fines</hi> of Threckingham,
+<pb n="11" facs="tcp:112246:7"/>
+gent. <hi>William Welbie</hi> of Dentongent. <hi>Edward Whichcot</hi> of Biſhop Norton, Eſquire. <hi>Mullineux Diſney</hi> of Norton Diſney, gem. <hi>Edward Ayſcough</hi> of North Kelſey, <abbr>Eſq</abbr> 
+               <hi>John Bolland</hi> of Gosberkirke husbandman. <hi>John Darrell</hi> of Grantham, Gent. <hi>William Thompſon</hi> of Roxholme Gent. <hi>Nicholas Norwood</hi> of Preiſton, gent. <hi>Thomas Briſtow</hi> of Grantham Gent. <hi>Thomas Blundell</hi> of the ſame Eſquire. <hi>William Toller</hi> of Billingborow, Yeoman. <hi>Richard Shepperdſon</hi> of Grantham, Mercer. <hi>Robert Kelham</hi> of Grantham Tanner. <hi>John Griffith</hi> of the Baile of Lincolne, Gent. <hi>Robert Bee</hi> of Sleeford woollen Draper. <hi>Willi<g ref="char:EOLhyphen"/>am Fearing</hi> of Grantham Cordwayner. <hi>Samuel Askew</hi> of Har<g ref="char:EOLhyphen"/>laxton, yeoman. <hi>Thomas Silon</hi> of Boſton gent. <hi>William Cole</hi> of Boſton Cordwayner. <hi>John Browne</hi> of Billingburgh gent. <hi>Matthias Browne</hi> of Horbling gent. <hi>Richard Toller</hi> of Billing<g ref="char:EOLhyphen"/>burgh gent. <hi>Thomas Wallis</hi> of Swaton Clerke. <hi>Andrew Thornton</hi> of South Kine, Clerke. <hi>Thomas Scochey</hi> of great Hale Clerke. <hi>George Foſter</hi> of great Hale yeoman. <hi>Nicholas Timberland</hi> of Threckingham yeoman. <hi>John Seagrave</hi> of Stow greene, yeoman. <hi>Clement Benſon</hi> of North Kelſey Gent. <hi>Ed<g ref="char:EOLhyphen"/>ward Tilſon</hi> of Boſton woollen Draper. <hi>Edward Skipwith</hi> of Grantham Gent. <hi>William Clarke</hi> of Grantham Apothecarie. <hi>Richard Cony</hi> of the ſame, gent. <hi>William Berrie</hi> of the ſame, Gent. <hi>Robert Ram</hi> of Spalding, Clerke. <hi>Robert Alford</hi> of Sle<g ref="char:EOLhyphen"/>ford Clerke. <hi>Francis Manbie,</hi> of Lincolne Gent. <hi>William Sa<g ref="char:EOLhyphen"/>vill</hi> of Newton gent. <hi>Thomas Hall</hi> of Donington yeoman. <hi>Sa<g ref="char:EOLhyphen"/>muel Lee</hi> of Burton Pedwerdine, Clerke. <hi>Thomas Ballard</hi> late of Sleeford, gent. <hi>Willam Ballard of</hi> Brant Broughton gent. <hi>John Harrington</hi> of Spalding the elder Eſquire. <hi>John Har<g ref="char:EOLhyphen"/>rington</hi> of the ſame, the younger gent. <hi>Robert Cawdron</hi> of great Hale Eſquire. <hi>Mathew Briggs</hi> of Sunflet, yeoman. <hi>Zacharias Briggs</hi> of the ſame yeoman. <hi>John Burton</hi> of the ſame gent. <hi>Peter Dickenſon</hi> of Gain brough gent. <hi>Joſeph Larke</hi> of the ſame gent. <hi>Thomas Ogle</hi> of Pinchbecke, Eſquire. <hi>John Ped<g ref="char:EOLhyphen"/>der</hi> of Surſtet gent. <hi>John Plummer</hi> of Gosborkirke, yeoman. <hi>John Good yeare</hi> of Heckington yeoman. <hi>Thomas Eaſtcoate</hi> alias <hi>Eſcoath</hi> of Algarkirke Gent. Sir <hi>Edward Hartupp</hi> the
+<pb n="12" facs="tcp:112246:8"/>
+younger of Grantham Knight. <hi>Thomas Garthwaite</hi> of Harm<g ref="char:EOLhyphen"/>ſton gent. <hi>Ephraim Garthwaite</hi> of Barkeſton Clerke. Sir <hi>Ha<g ref="char:EOLhyphen"/>mond Whichcot</hi> of Sleford Knight. <hi>Matthew Read</hi> of Grant<g ref="char:EOLhyphen"/>ham gent. <hi>Daniel North</hi> of the ſame, Gent. <hi>Henry Bleſtet</hi> of the ſame Gent. <hi>Wyat Perkins</hi> of Pinchbecke Gent. <hi>Thomas Pell</hi> of Cosberkirke, yeoman.</p>
+            <closer>
+               <date>May <hi>3. 1643.</hi>
+               </date>
+               <signed>
+                  <hi>Ordered to be forthwith printed and publiſhed with the Letters.</hi> H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi <hi>17</hi> December <hi>1642.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>VVHereas information hath beene given to the Lords and commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that <hi>Clifton Catesby, Iohn Lilburne,</hi> and <hi>Robert Vivers</hi> Captaines in the Army, raiſed by Authority of both Houſes of Parliament for the neceſſarie defence of the true Proteſtant, Religion the King, Parliament, and Kingdome, under the Command of <hi>Robert</hi> Earle of <hi>Eſſex,</hi> Captaine Generall thereof were taken Priſo<g ref="char:EOLhyphen"/>ners by the forces raiſed againſt the Parliament, in execu<g ref="char:EOLhyphen"/>ting their ſeverall duties and ſervices according to the Or<g ref="char:EOLhyphen"/>dinances of both the ſaid Houſes, and after carried Priſoners to <hi>Oxford</hi> Gaole, and having beene moſt barbarouſly uſed, are now queſtioned, and proceeded againſt by way of In<g ref="char:EOLhyphen"/>dictment before Sir <hi>Robert Heath</hi> Kt. one of his Majeſties Iuſtices of the Kings Bench, and others (by colour of ſome Commiſſion or other Authority from his Majeſtie) for high Treaſon, and other ſuppoſed miſdemeanors; whereas ma<g ref="char:EOLhyphen"/>ny have beene taken Priſoners by the Parliament forces in the act of Warre againſt the Parliament, which by the Lawes and ſtatutes of this Realme is Rebellion, and high Treaſon againſt the King and Kingdome, and the Actors herein Traitors; and yet none of them have hitherto beene
+<pb n="13" facs="tcp:112246:8"/>
+put to death, or otherwiſe ſeverely dealt with by the Par<g ref="char:EOLhyphen"/>liament. It is therefore Ordered and declared by the ſaid Lords and Commons that all ſuch Indictments and other pro<g ref="char:EOLhyphen"/>ceedings againſt the ſaid Capt. <hi>Catesby,</hi> Capt. <hi>Lilbourne,</hi> and Cap. <hi>Vivers,</hi> or againſt Capt. <hi>Wingate,</hi> who have done faithfull and good ſervice to the Common-wealth, or againſt any o<g ref="char:EOLhyphen"/>ther perſon or perſons, who have done or ſhall doe any ſer<g ref="char:EOLhyphen"/>vice in the ſaid Army; or for the raiſing of any moneys, Plate, horſe, or Armes, for the mainetenance thereof, or o<g ref="char:EOLhyphen"/>therwiſe in the execution or Purſuance of any Order or or<g ref="char:EOLhyphen"/>dinance of both or either of the ſaid Houſes of Parliament for the defence of the publique ſafetie, are unjuſt and illegall, and the ſaid Sir <hi>Robert Heath</hi> and all other Commiſſioners, Iuſtices, Sheriffes, Jurors, and other officers and Mi<g ref="char:EOLhyphen"/>niſters of Juſtice, and other Perſons whatſoever are here<g ref="char:EOLhyphen"/>by required and injoyned to ſurceaſe any further pro<g ref="char:EOLhyphen"/>ceedings againſt the ſaid perſons before named or any other for any the cauſes aforeſaid upon the ſaid Indictments or o<g ref="char:EOLhyphen"/>therwiſe. And the ſaid Lords and Commons doe further declare, that if the ſaid perſons before mentioned or any of them or any other ſhall be put to death or other hurt or vio<g ref="char:EOLhyphen"/>lence offered to their or any of their perſons for or by reaſon of any ſuch ſervice done or to be done by or according to any order or Ordinance of both or either of the ſaid Houſes, the like puniſhment ſhall be inflicted by death or otherwiſe upon ſuch priſoners as have beene or ſhall be taken by the forces raiſed by Authority of both Houſes of Parliament; And if the ſaid Sir <hi>Robert Heath,</hi> or any other Commiſſioner, Iuſtice, Sheriffe, Iuror of other Officer or miniſter of Iuſtice or other perſon ſhall doe contrary to this Ordinance in any the premiſſes they and every of them for ſo doing ſhall be proceeded againſt and dealt with as enemies to the King and Kingdome.</p>
+         </div>
+         <div type="description">
+            <pb n="14" facs="tcp:112246:9"/>
+            <head>A further Relation of what happened in the late expedition under the Command of Ser<g ref="char:EOLhyphen"/>jeant major <hi>Iames Chudley</hi> with his 108 horſe againſt Sir <hi>Ralph Hopton</hi> with his 500 horſe, and 5000 foote.</head>
+            <p>DIvers of the Cavaliers which then were preſent &amp; ſince taken Priſoners tell us, and we have it from better hands, that God did ſhew himſelfe that day, which was Tueſday, the 25 of <hi>April</hi> laſt, more wonderfull in his Judgements, then hath been yet related, for when the Cava<g ref="char:EOLhyphen"/>liers were paſt two miles beyond the place we purſued or cha<g ref="char:EOLhyphen"/>ſed them, they fell upon and deſtroyed one another, for wee having got their word (which was <hi>Lanceſton</hi>) and they ours, which was (Religion) comming amongſt their own friends, and into their owne quarters, but conceiving it to be ours, and being demanded the word, and ſaying (Religion) they fought and killed many of themſelves.</p>
+            <p>That ſome men well affected to the Parliament, who were inforced to ſerve in <hi>Hoptons</hi> Army, informe us, that immedi<g ref="char:EOLhyphen"/>ately upon the fight, there was ſuch a terrible Thunder and Lightning, that the Lightning fired many of the Cavaliers Bandaleeres, which burnt their cloathes, faces and haire that many of the wounded and ſcall'd men dyed dayly in <hi>Lance<g ref="char:EOLhyphen"/>ston.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
